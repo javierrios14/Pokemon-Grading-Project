@@ -1,0 +1,17 @@
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+.Ruserdata
+.Renviron
+Rplots.pdf
+
+# R Markdown build output
+*_cache/
+*_files/
+
+# OS / Office temp files
+.DS_Store
+Thumbs.db
+~$*.xlsx
